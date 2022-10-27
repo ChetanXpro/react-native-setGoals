@@ -1,4 +1,4 @@
-# react-native-setGoals
+# React-native SetGoals
 
 1.
 
